@@ -9,7 +9,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 41px 112.5px 0;
+    padding: 41px 112.5px 41px 112.5px;
 }
 
 .nav-links a {
